@@ -10,3 +10,8 @@ The current game support three modes:
 It also suppport flagging cells as well as keeping track of remaining bombs and the time elasped
 
 Good Luck!
+
+![starting_screen](https://user-images.githubusercontent.com/91392684/147783873-bbee4755-d1d6-412f-9ea5-c65bea39c4b8.png)
+
+![Capture](https://user-images.githubusercontent.com/91392684/147783853-dc9701f6-4e4b-4819-97f4-b8840673a5cb.PNG)
+
